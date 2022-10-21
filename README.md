@@ -2,14 +2,18 @@
 
 Python-flask app
 
-## High level solution architecture
+.To create new users, login, logout, upload data to MongoDB and view uploaded data.
 
-## Functional components
+.Uses flask-jwt for user authentication and authorisation.
 
-## To run in local
+### High level solution architecture
 
-# clone the repo
+### Functional components
 
-# Create a Virtual env : python -m ven env
+### To run in local
 
-# flask run
+1.clone the repo
+2.cd to the folder
+3.Create a Virtual env : python -m ven env
+4.Install requirements : pip install -r requirements.txt
+5.Run command 'flask run'
