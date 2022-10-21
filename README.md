@@ -7,7 +7,7 @@ Python-flask app
 .Uses flask-jwt for user authentication and authorisation.
 
 ### High level solution architecture
-
+![highlevel](https://user-images.githubusercontent.com/116282773/197083463-ffc01e3e-66e6-434a-bbcd-2bc03b996cb4.png)
 ### Functional components
 
 ### To run in local
