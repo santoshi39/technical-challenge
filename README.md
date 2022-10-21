@@ -17,8 +17,24 @@ Python-flask app
 
 2.cd to the folder
 
-3.Create a Virtual env : python -m ven env
+3.Create a Virtual env 
 
-4.Install requirements : pip install -r requirements.txt
+```
+python -m ven env
+```
 
-5.Run command 'flask run'
+4.Install requirements
+
+```
+pip install -r requirements.txt
+```
+
+5.Run command 
+
+```
+flask run
+```
+
+Please check the below link for frontend app
+
+https://github.com/santoshi39/technical-challenge-ui
